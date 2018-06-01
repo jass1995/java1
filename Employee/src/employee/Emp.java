@@ -17,9 +17,8 @@ public class Emp {
     double salary;
     
     public void setValues(int empid,String empname,double sal)
-    
     {
-    this.id=empid;
+    id=empid;
     this.name=empname;
     this.salary=sal;
     }
