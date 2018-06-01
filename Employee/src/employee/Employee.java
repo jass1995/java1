@@ -15,7 +15,9 @@ public class Employee {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        // TODO code application logic here
+        Emp e1=new Emp();
+        e1.setValues(1,"jass", 1200.56);
+        e1.display();
     }
     
 }
