@@ -11,9 +11,7 @@ public class Employee {
    
     public static void main(String[] args) {
         
-        Emp e1=new Emp();
-        e1.setValues(1,"jass", 1200.56);
-        e1.display(); 
+       
       
 
        Arithmatic a1=new Arithmatic();
