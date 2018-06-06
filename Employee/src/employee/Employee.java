@@ -11,10 +11,10 @@ public class Employee {
    
     public static void main(String[] args) {
         
-       /* Emp e1=new Emp();
+        Emp e1=new Emp();
         e1.setValues(1,"jass", 1200.56);
-        e1.display(); */ 
-       
+        e1.display(); 
+      
 
        Arithmatic a1=new Arithmatic();
        System.out.println(a1.di(10, 10));
